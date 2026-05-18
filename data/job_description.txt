@@ -1,0 +1,14 @@
+We are looking for a Python Developer with experience in:
+Python
+Machine Learning
+Pandas
+NumPy
+SQL
+Scikit-learn
+Streamlit
+Data Visualization
+
+Preferred:
+Git
+Docker
+NLP
